@@ -1,0 +1,11 @@
+AndroidApp_Steward
+-------------------
+This is my first personal Android App. Steward is a personal belongings management tool with following basic functionalities,
+
+Grid view list: images of belonging of the logged in user, click the image to edit the information;
+Camera: take pictures to new belonging to add to your list;
+Edit: edit the information of an article, including title, price and description; or delete it from the list;
+
+The information of the belongings is stored in the SQLite database;
+
+This app is tested on Android 4.1.2
