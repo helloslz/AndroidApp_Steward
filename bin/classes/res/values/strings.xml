@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Steward</string>
+    <string name="title_activity_edit">Edit Article</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="action_photo">Photo</string>
+    
+	<string name="text_title">Title:</string>
+	<string name="text_price">Price:</string>
+	<string name="text_description">Description:</string>
+	<string name="photo_article">Photo of the current article</string>
+	<string name="button_add">Add to Steward</string>
+	
+</resources>
